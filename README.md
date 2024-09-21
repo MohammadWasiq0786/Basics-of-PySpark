@@ -1,6 +1,6 @@
 # Basics of PySpark
 
-![pyspark](https://pyspark.com/wp-content/uploads/2022/09/Capint-1-7.png)
+![pyspark](https://www.edureka.co/blog/wp-content/uploads/2018/07/PySpark-logo-1.jpeg)
 
 ## Special Thanks To
 
