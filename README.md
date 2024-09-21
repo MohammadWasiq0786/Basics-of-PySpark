@@ -1,4 +1,8 @@
-<center> <h1 style= color:red;> Basics of PySpark </h1> </center>
+# Basics of PySpark
+
+![pyspark](https://pyspark.com/wp-content/uploads/2022/09/Capint-1-7.png)
+
+## Special Thanks To
 
 ## [**YouTube**](https://www.youtube.com/@WafaStudies)
 
